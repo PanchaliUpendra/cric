@@ -1,0 +1,30 @@
+.page1-App{
+    text-align: center;
+    padding-top: 10%;
+  }
+  
+  .gully{
+    color: white;
+    font-size: 52px;
+    font-weight: bold;
+    font-family: 'Gill Sans',sans-serif;
+  }
+  .start-app-btn{
+    padding:25px;
+    font-size: 24px;
+    color: black;
+    background-color: rgb(244, 250, 244);
+    border:5px solid white;
+    border-radius: 8px;
+    font-weight: bold;
+    border-style: none;
+    cursor: pointer;
+    transition: 1.2s;
+  
+  }
+  .start-app-btn:hover{
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    
+  }

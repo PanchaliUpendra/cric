@@ -1,0 +1,51 @@
+.page2-container{
+    text-align: center;
+    background-color: black;
+    margin-left:20%;
+    margin-right: 20%;
+    background-attachment: fixed;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    
+    
+}
+.page-div2{
+    padding-top: 2px;
+    padding-bottom: 5px;
+}
+.page2-div-con{
+    text-align: center;
+}
+.page2-head{
+    color: white;
+    font-size: 52px;
+    font-weight: bold;
+}
+.page2-input{
+    padding:7px;
+    border-radius: 8px;
+    border: 2px solid red;
+    border-style: none;
+    background-color: transparent;
+    color: white;
+    font-size: larger;
+}
+.page2-head2{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+.page2-save{
+    padding:10px;
+    padding-left:20px;
+    padding-right: 20px;
+    border-style: none;
+    background-color: rgb(214, 239, 213);
+    color: black;
+    margin-top: 3%;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 5%;
+    margin-right: 5%;
+}
