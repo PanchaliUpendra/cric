@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cric/static/css/main.3c92d998.css",
-    "main.js": "/cric/static/js/main.91ba76b1.js",
+    "main.css": "/cric/static/css/main.20a45b7a.css",
+    "main.js": "/cric/static/js/main.1005d69d.js",
     "static/js/787.704c952b.chunk.js": "/cric/static/js/787.704c952b.chunk.js",
     "static/media/cric.jpg": "/cric/static/media/cric.234adfd924a04a51c191.jpg",
     "index.html": "/cric/index.html",
-    "main.3c92d998.css.map": "/cric/static/css/main.3c92d998.css.map",
-    "main.91ba76b1.js.map": "/cric/static/js/main.91ba76b1.js.map",
+    "main.20a45b7a.css.map": "/cric/static/css/main.20a45b7a.css.map",
+    "main.1005d69d.js.map": "/cric/static/js/main.1005d69d.js.map",
     "787.704c952b.chunk.js.map": "/cric/static/js/787.704c952b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c92d998.css",
-    "static/js/main.91ba76b1.js"
+    "static/css/main.20a45b7a.css",
+    "static/js/main.1005d69d.js"
   ]
 }
