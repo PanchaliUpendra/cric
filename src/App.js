@@ -11,10 +11,10 @@ function App() {
   return(
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={<Page1/>}/>
-        <Route path='/page2' element={<Page2/>}/>
-        <Route path='/page3' element={<Page3/>}/>
-        <Route path='/page4' element={<Page4/>}/>
+        <Route path='/cric' element={<Page1/>}/>
+        <Route path='/cric/page2' element={<Page2/>}/>
+        <Route path='/cric/page3' element={<Page3/>}/>
+        <Route path='/cric/page4' element={<Page4/>}/>
       </Routes>
     </BrowserRouter>
 

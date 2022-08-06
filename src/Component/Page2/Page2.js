@@ -27,7 +27,7 @@ function Page2(){
             <input type='text' placeholder='Team2 Name' value={team2} onChange={handle2} className="page2-input"/>
             </div>
             <button onClick={handle3} className="page2-save">Save</button>
-            <button className="page2-save"><Link to='/Page3'>Next</Link></button>
+            <button className="page2-save"><Link to='/cric/Page3'>Next</Link></button>
             <p className='page2-head2'>Team1: {team3}</p>
             <p className='page2-head2'>Team2: {team4}</p>
             </div>

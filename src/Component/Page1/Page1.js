@@ -5,7 +5,7 @@ function Page1(){
     return (
         <div className="page1-App">
           <p className="gully">Gully Cricket Club</p>
-          <button className="start-app-btn"><Link to='/page2'>Let's Start</Link></button>
+          <button className="start-app-btn"><Link to='/cric/page2'>Let's Start</Link></button>
         
         </div>
       );
